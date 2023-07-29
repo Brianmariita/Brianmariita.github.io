@@ -39,7 +39,7 @@ body .container h3{
   display: flex;
   justify-content: center;
 }
-hr.col-12{
+hr.line{
   border-color: rgb(255, 73, 18);
   border-width: 6px;
   max-width: 70px;
